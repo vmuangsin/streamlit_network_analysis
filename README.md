@@ -35,6 +35,10 @@ cd network-analysis-tool
 ```bash
 pip install streamlit networkx pandas numpy pyvis matplotlib
 ```
+Or
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 
@@ -44,6 +48,11 @@ streamlit run streamlit_network_analysis.py
 ```
 
 2. Access the tool through your web browser (typically at `http://localhost:8501`)
+
+
+## Streamlit Share
+
+The application is also available on https://appnetworkanalysis-bbdpdq3ohya2si4bscrezp.streamlit.app/
 
 ### Input Formats
 
